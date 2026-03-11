@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Claude/Claude code in action/What is a coding assistant.md",
+                "file": "AI/Claude/Getting hands on/Making changes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is a coding assistant"
+              "title": "Making changes"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -183,10 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "8d4f2072dc0c7187",
+  "active": "92ecaeadd78458f7",
   "lastOpenFiles": [
-    "Pasted image 20260311145024.png",
+    "AI/Claude/Getting hands on/Adding context.md",
+    "AI/Claude/Getting hands on/Making changes.md",
+    "AI/Claude/Getting hands on/Claude Code setup.md",
+    "AI/Claude/Getting hands on/Project setup.md",
     "AI/Claude/Claude code in action/What is a coding assistant.md",
+    "AI/Claude/Getting hands on",
+    "AI/Claude/Claude code in action/Untitled.md",
+    "Pasted image 20260311145024.png",
     "Welcome.md",
     "AI/Claude/Claude code in action",
     "Untitled",
