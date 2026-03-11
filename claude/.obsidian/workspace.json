@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Claude/Getting hands on/Making changes.md",
+                "file": "AI/Claude/Getting hands on/MCP servers with Claude Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Making changes"
+              "title": "MCP servers with Claude Code"
             }
           }
         ]
@@ -183,11 +183,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "92ecaeadd78458f7",
+  "active": "8d4f2072dc0c7187",
   "lastOpenFiles": [
-    "AI/Claude/Getting hands on/Adding context.md",
-    "AI/Claude/Getting hands on/Making changes.md",
+    "AI/Claude/Getting hands on/Github integration.md",
+    "AI/Claude/Getting hands on/MCP servers with Claude Code.md",
     "AI/Claude/Getting hands on/Claude Code setup.md",
+    "AI/Claude/Getting hands on/Custom commands.md",
+    "AI/Claude/Getting hands on/Controlling context.md",
+    "AI/Claude/Getting hands on/Making changes.md",
+    "AI/Claude/Getting hands on/Adding context.md",
     "AI/Claude/Getting hands on/Project setup.md",
     "AI/Claude/Claude code in action/What is a coding assistant.md",
     "AI/Claude/Getting hands on",
