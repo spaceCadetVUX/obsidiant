@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "b933ac305b1e4b59",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bbf8e954767bc30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d4f2072dc0c7187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Claude/Claude code in action/What is a coding assistant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is a coding assistant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0693fc59e216ba3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "95f8129dc82b6de6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92ecaeadd78458f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e954f341a6902e1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cb347a3dcaa3971c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1600ecaca97e8b90",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bd738677c30e811",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93ed21998557d738",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI/Claude/Claude code in action/What is a coding assistant.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for What is a coding assistant"
+            }
+          },
+          {
+            "id": "c7f031cfb8433008",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI/Claude/Claude code in action/What is a coding assistant.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from What is a coding assistant"
+            }
+          },
+          {
+            "id": "44d53999e88b06bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a12538759fa860b5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d846ed30cb91e333",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI/Claude/Claude code in action/What is a coding assistant.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of What is a coding assistant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8d4f2072dc0c7187",
+  "lastOpenFiles": [
+    "Pasted image 20260311145024.png",
+    "AI/Claude/Claude code in action/What is a coding assistant.md",
+    "Welcome.md",
+    "AI/Claude/Claude code in action",
+    "Untitled",
+    "AI/Claude",
+    "Untitled 1",
+    "AI"
+  ]
+}
