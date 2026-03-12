@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Claude Code in Action/What is Claude code/What is a coding assistant.md",
+                "file": "AI/Claude 101/11 Other ways to work with Claude.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is a coding assistant"
+              "title": "11 Other ways to work with Claude"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 578.5
   },
   "right": {
     "id": "1600ecaca97e8b90",
@@ -185,33 +185,44 @@
   },
   "active": "8d4f2072dc0c7187",
   "lastOpenFiles": [
-    "AI/Claude Code in Action/Wrapping up/Untitled.md",
-    "AI/Claude Code in Action/Hooks and the SDK/The Claude Code SDK.md",
-    "AI/Claude Code in Action/Wrapping up",
-    "AI/Claude Code in Action/Hooks and the SDK/Another useful hook.md",
-    "AI/Claude Code in Action/Hooks and the SDK/Useful hooks!.md",
-    "AI/Claude Code in Action/Hooks and the SDK/Gotchas around hooks.md",
-    "AI/Claude Code in Action/Hooks and the SDK/Implementing a hook.md",
-    "AI/Claude Code in Action/Hooks and the SDK/Defining hooks.md",
-    "AI/Claude Code in Action/Hooks and the SDK/Introducing Hooks.md",
-    "AI/Claude Code in Action/Getting hands on/MCP servers with Claude Code.md",
-    "AI/Claude Code in Action/Hooks and the SDK",
-    "Untitled",
-    "AI/Claude Code in Action/Getting hands on/Github integration.md",
-    "AI/Claude Code in Action/Getting hands on/Claude Code setup.md",
-    "AI/Claude Code in Action/Getting hands on/Custom commands.md",
-    "AI/Claude Code in Action/Getting hands on/Controlling context.md",
-    "AI/Claude Code in Action/Getting hands on/Making changes.md",
-    "AI/Claude Code in Action/Getting hands on/Adding context.md",
-    "AI/Claude Code in Action/Getting hands on/Project setup.md",
-    "AI/Claude Code in Action/What is Claude code/What is a coding assistant.md",
-    "AI/Claude Code in Action/Getting hands on",
-    "AI/Claude/Claude code in action/Untitled.md",
-    "Pasted image 20260311145024.png",
-    "Welcome.md",
-    "AI/Claude Code in Action/What is Claude code",
-    "AI/Claude Code in Action",
-    "Untitled 1",
-    "AI"
+    "AI/Claude 101/10 Claude in action use-cases by role.md",
+    "AI/Claude 101/11 Other ways to work with Claude.md",
+    "AI/Claude 101/9 Research mode for deep dives.md",
+    "AI/Claude 101/8 Enterprise search.md",
+    "AI/Claude 101/7 Connecting your tools.md",
+    "AI/Claude 101/6 Working with skills.md",
+    "AI/Claude 101/5 Creating with artifacts.md",
+    "AI/Claude 101/4 Introduction to projects.md",
+    "AI/Claude 101/3 Claude desktop app Chat Cowork Code.md",
+    "AI/Claude 101/3 Getting better results.md",
+    "AI/Claude 101/2 Your first conversation with Claude.md",
+    "AI/Claude 101/1 What is Claude.md",
+    "AI/Claude Code in Action/Getting hands on/6 Controlling context.md",
+    "AI/Claude 101",
+    "AI/AI Fluency Framework & Foundations/7 Project planning and delegation.md",
+    "AI/Claude Code in Action/Getting hands on/5 Making changes.md",
+    "AI/Claude Code in Action/Getting hands on/4 Adding context.md",
+    "AI/Claude Code in Action/Getting hands on/3 Project setup.md",
+    "AI/Claude Code in Action/Getting hands on/2 Claude Code setup.md",
+    "AI/Claude Code in Action/What is Claude code/1 What is a coding assistant.md",
+    "AI/AI Fluency Framework & Foundations/4 Generative AI fundamentals.md",
+    "AI/AI Fluency Framework & Foundations/2 Why do we need AI Fluency.md",
+    "AI/AI Fluency Framework & Foundations/13 Conclusion.md",
+    "AI/AI Fluency Framework & Foundations/12 A closer look at diligence.md",
+    "AI/AI Fluency Framework & Foundations/11 The Description-Discernment loop.md",
+    "AI/AI Fluency Framework & Foundations/9 Effective Prompting Techniques.md",
+    "AI/AI Fluency Framework & Foundations/5 Capabilities & limitations.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "AI/AI Fluency Framework & Foundations/Conclusion & certificate",
+    "AI/AI Fluency Framework & Foundations/Diligence",
+    "AI/AI Fluency Framework & Foundations/Discernment",
+    "AI/AI Fluency Framework & Foundations/The Description-Discernment loop",
+    "AI/AI Fluency Framework & Foundations/Deep Dive 2 Effective prompting techniques",
+    "AI/AI Fluency Framework & Foundations/Delegation",
+    "AI/AI Fluency Framework & Foundations/Description",
+    "AI/AI Fluency Framework & Foundations/Deep Dive 1What is Generative AI Part 1",
+    "Pasted image 20260311145024.png"
   ]
 }
