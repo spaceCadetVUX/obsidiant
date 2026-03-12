@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Claude/Getting hands on/MCP servers with Claude Code.md",
+                "file": "AI/Claude Code in Action/What is Claude code/What is a coding assistant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCP servers with Claude Code"
+              "title": "What is a coding assistant"
             }
           }
         ]
@@ -185,22 +185,32 @@
   },
   "active": "8d4f2072dc0c7187",
   "lastOpenFiles": [
-    "AI/Claude/Getting hands on/Github integration.md",
-    "AI/Claude/Getting hands on/MCP servers with Claude Code.md",
-    "AI/Claude/Getting hands on/Claude Code setup.md",
-    "AI/Claude/Getting hands on/Custom commands.md",
-    "AI/Claude/Getting hands on/Controlling context.md",
-    "AI/Claude/Getting hands on/Making changes.md",
-    "AI/Claude/Getting hands on/Adding context.md",
-    "AI/Claude/Getting hands on/Project setup.md",
-    "AI/Claude/Claude code in action/What is a coding assistant.md",
-    "AI/Claude/Getting hands on",
+    "AI/Claude Code in Action/Wrapping up/Untitled.md",
+    "AI/Claude Code in Action/Hooks and the SDK/The Claude Code SDK.md",
+    "AI/Claude Code in Action/Wrapping up",
+    "AI/Claude Code in Action/Hooks and the SDK/Another useful hook.md",
+    "AI/Claude Code in Action/Hooks and the SDK/Useful hooks!.md",
+    "AI/Claude Code in Action/Hooks and the SDK/Gotchas around hooks.md",
+    "AI/Claude Code in Action/Hooks and the SDK/Implementing a hook.md",
+    "AI/Claude Code in Action/Hooks and the SDK/Defining hooks.md",
+    "AI/Claude Code in Action/Hooks and the SDK/Introducing Hooks.md",
+    "AI/Claude Code in Action/Getting hands on/MCP servers with Claude Code.md",
+    "AI/Claude Code in Action/Hooks and the SDK",
+    "Untitled",
+    "AI/Claude Code in Action/Getting hands on/Github integration.md",
+    "AI/Claude Code in Action/Getting hands on/Claude Code setup.md",
+    "AI/Claude Code in Action/Getting hands on/Custom commands.md",
+    "AI/Claude Code in Action/Getting hands on/Controlling context.md",
+    "AI/Claude Code in Action/Getting hands on/Making changes.md",
+    "AI/Claude Code in Action/Getting hands on/Adding context.md",
+    "AI/Claude Code in Action/Getting hands on/Project setup.md",
+    "AI/Claude Code in Action/What is Claude code/What is a coding assistant.md",
+    "AI/Claude Code in Action/Getting hands on",
     "AI/Claude/Claude code in action/Untitled.md",
     "Pasted image 20260311145024.png",
     "Welcome.md",
-    "AI/Claude/Claude code in action",
-    "Untitled",
-    "AI/Claude",
+    "AI/Claude Code in Action/What is Claude code",
+    "AI/Claude Code in Action",
     "Untitled 1",
     "AI"
   ]
